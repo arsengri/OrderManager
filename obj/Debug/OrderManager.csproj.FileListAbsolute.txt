@@ -1,0 +1,13 @@
+c:/users/arsen_grigoryan/documents/visual studio 2015/Projects/OrderManager/OrderManager/bin/Debug/OrderManager.exe.config
+/Users/arsen/Desktop/OrderManager/OrderManager/obj/Debug/OrderManager.csproj.CoreCompileInputs.cache
+/Users/arsen/Desktop/OrderManager/OrderManager/bin/Debug/OrderManager.exe.config
+/Users/arsen/Desktop/OrderManager/OrderManager/bin/Debug/OrderManager.exe
+/Users/arsen/Desktop/OrderManager/OrderManager/bin/Debug/OrderManager.pdb
+/Users/arsen/Desktop/OrderManager/OrderManager/obj/Debug/OrderManager.exe
+/Users/arsen/Desktop/OrderManager/OrderManager/obj/Debug/OrderManager.pdb
+C:\OrderManager\OrderManager\bin\Debug\OrderManager.exe.config
+C:\OrderManager\OrderManager\obj\Debug\OrderManager.exe
+C:\OrderManager\OrderManager\obj\Debug\OrderManager.pdb
+C:\OrderManager\OrderManager\obj\Debug\OrderManager.csprojResolveAssemblyReference.cache
+C:\OrderManager\OrderManager\bin\Debug\OrderManager.exe
+C:\OrderManager\OrderManager\bin\Debug\OrderManager.pdb
