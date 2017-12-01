@@ -39,7 +39,7 @@ namespace OrderManager
                                             , p.Quantity
                                             , ((p.IsImported) ? "Imported " : string.Empty)
                                             + p.Name,
-                                             p.Price
+                                             Formater.Decimal2Digit(p.Price)
                                              );
                                              
                 str.AppendLine(row);
