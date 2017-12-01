@@ -14,7 +14,7 @@ namespace OrderManager
         //Show 2 digits always
         public static string Decimal2Digit(double pValue)
         {
-         
+           
             return pValue.ToString("N2");
 
 
