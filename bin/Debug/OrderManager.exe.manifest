@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OrderManager.exe" size="13280">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OrderManager.exe" size="12288">
       <assemblyIdentity name="OrderManager" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>qq85p+7CGe81/hLZw8Jyk3dUPGkFylt5Ge385CeL1QA=</dsig:DigestValue>
+        <dsig:DigestValue>OXUk/4iOHfgelsmtlXObSRQEaLn5BL14UztRolVEa8U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
