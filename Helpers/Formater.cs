@@ -14,8 +14,11 @@ namespace OrderManager
         //Show 2 digits always
         public static string Decimal2Digit(double pValue)
         {
-            return pValue.ToString("#.00", CultureInfo.InvariantCulture);
-            
+            //return pValue.ToString("{0:D2}", CultureInfo.InvariantCulture);
+
+            return pValue.ToString("N2");
+
+
         }
 
     }

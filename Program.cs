@@ -44,9 +44,8 @@ namespace OrderManager
 
             // Wait Enter to clsoe window
             Console.WriteLine(
-                    new string('\n', 2)
-                    + new string('-', 5)
-                    + "\nPress Enter to exit...");
+                    new string('\n', 4)
+                    + "Press Enter to exit...");
 			Console.ReadLine();
         }
     }

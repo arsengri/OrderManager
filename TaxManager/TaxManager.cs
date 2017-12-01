@@ -26,7 +26,10 @@ namespace OrderManager
 
             if (pProduct.IsImported)
             {
-                tax += CalcImportDutyTax(pProduct.Price + tax);
+                //tax += CalcImportDutyTax(pProduct.Price + tax);
+
+                //Seems the imported tax is calculated on product net price
+                tax += CalcImportDutyTax(pProduct.Price);
             }
 
             // Round to Nearest 0.05

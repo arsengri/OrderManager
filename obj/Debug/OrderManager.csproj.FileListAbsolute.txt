@@ -11,3 +11,7 @@ C:\OrderManager\OrderManager\obj\Debug\OrderManager.pdb
 C:\OrderManager\OrderManager\obj\Debug\OrderManager.csprojResolveAssemblyReference.cache
 C:\OrderManager\OrderManager\bin\Debug\OrderManager.exe
 C:\OrderManager\OrderManager\bin\Debug\OrderManager.pdb
+C:\OrderManager\OrderManager\bin\Debug\OrderManager.exe.manifest
+C:\OrderManager\OrderManager\bin\Debug\OrderManager.application
+C:\OrderManager\OrderManager\obj\Debug\OrderManager.exe.manifest
+C:\OrderManager\OrderManager\obj\Debug\OrderManager.application
